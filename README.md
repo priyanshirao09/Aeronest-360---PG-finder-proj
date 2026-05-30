@@ -176,6 +176,4 @@ npm run dev
 
 ---
 
-## License
 
-This project was developed as a Mini Project for academic purposes at GLS University.
